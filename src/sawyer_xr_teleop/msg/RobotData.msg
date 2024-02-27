@@ -1,0 +1,12 @@
+int8 in_final_position
+int8 at_edge_limit
+int32 error_type
+bool slow_down
+float64 robot_x_pos
+float64 robot_y_pos
+float64 robot_z_pos
+float64 leap_transX
+float64 leap_transY
+float64 leap_transZ
+float64 joint_effort_norm
+bool movement_obstruction

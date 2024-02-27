@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/sawyer_xr_teleop/LeapSDK/lib/x64",
+        "./src/intera_sdk/intera_interface/src",
+        "./devel/lib/python2.7/dist-packages"
+    ]
+}

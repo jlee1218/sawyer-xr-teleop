@@ -18,7 +18,7 @@ Open a separate terminal for each of the following steps. Ensure you run the ./i
 2. `LeapControlPanel --showsettings` will open a control panel where you can open the diagnostic visualizer to see the Leap camera's wireframe
 3. `python SawyerArmController.py` in the aforementioned location to run the Sawyer Controller
 4. `python LeapDataProcessor.py` in the aforementioned location to run the Leap data processor
-5. `python iControBot_UI.py` in the adorementioned location to run the UI
+5. `python iControBot_UI.py` in the aforementioned location to run the UI
 
 Steps 1,3, and 4 are the bare minimum files you need to run to start the controller. 
 
